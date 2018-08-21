@@ -1,0 +1,39 @@
+/*custom css*/
+
+body {
+	background: url(images/friends.jpg);
+	background-size: cover;
+	background-position: center;
+	padding-top: 25%;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+html, body {
+	width : 100%;
+	height: 100%;
+}
+
+.navbar-light .navbar-brand {
+	font-weight: 800;
+	color: #1aa3ff;
+	font-size: 24px; 
+}
+
+.clgr {
+	color : #00e600;
+}
+.jumbotron {
+	font-family: 'Merienda', cursive;
+}
+
+.lnmore {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+nav.navbar {
+	font-size: 18px;
+}
+
+ul.navbar-nav {
+	margin-left: 3%;
+}
