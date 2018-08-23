@@ -58,3 +58,10 @@ a#login {
 a#signup {
 	color : #ffcc00;
 }
+
+.navbar-dark .navbar-nav .nav-link {
+	color : white;
+}
+.navbar-dark .navbar-nav .active > .nav-link {
+	color : #00e600;
+}
