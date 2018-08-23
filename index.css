@@ -29,7 +29,8 @@ html, body {
 
 nav.navbar {
 	font-size: 18px;
-	height: 12%;
+	/*height: 12%;*/
+	/* height property will effect the mobile layout for it could not apply the dark theme when expanded in mobile*/
 }
 
 ul.navbar-nav {
