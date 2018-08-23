@@ -13,7 +13,7 @@ html, body {
 	height: 100%;
 }
 
-.navbar-light .navbar-brand {
+.navbar-dark .navbar-brand {
 	font-weight: 800;
 	color: #1aa3ff;
 	font-size: 24px; 
@@ -25,15 +25,19 @@ html, body {
 .jumbotron {
 	font-family: 'Merienda', cursive;
 }
-
 .lnmore {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
 nav.navbar {
 	font-size: 18px;
+	height: 12%;
 }
 
 ul.navbar-nav {
 	margin-left: 3%;
+}
+
+.nav-link {
+	font-size: 20px;
 }
