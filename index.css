@@ -5,7 +5,8 @@ body {
 	background-size: cover;
 	background-position: center;
 	padding-top: 25%;
-	font-family: 'Jua', sans-serif;
+	font-family: 'Kosugi Maru', sans-serif;
+	background-repeat: no-repeat;
 }
 
 html, body {
@@ -53,10 +54,10 @@ li.nav-item {
 	margin-right: 10px;
 }
 a#login {
-	color : #ff9900;
+	color : #00e600;
 }
 a#signup {
-	color : #ffcc00;
+	color : #1aa3ff;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -64,4 +65,19 @@ a#signup {
 }
 .navbar-dark .navbar-nav .active > .nav-link {
 	color : #00e600;
+}
+.bg-dark {
+	background-color : #666666 !important;
+}
+
+div#jumbomsg {
+	width: 100%;
+}
+
+h1#msgtext {
+	font-size: 45px;
+	color: yellow;
+	font-weight: bold;
+	text-align: center;
+	font-weight: 800;
 }
