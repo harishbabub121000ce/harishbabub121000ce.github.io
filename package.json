@@ -1,0 +1,22 @@
+{
+  "name": "trippackage",
+  "version": "1.0.0",
+  "description": "TripPlanning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harishbabub121000ce/harishbabub121000ce.github.io.git"
+  },
+  "author": "Harish Babu Nimmagadda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harishbabub121000ce/harishbabub121000ce.github.io/issues"
+  },
+  "homepage": "https://github.com/harishbabub121000ce/harishbabub121000ce.github.io#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
